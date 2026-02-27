@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Day 1 ◑",
+  "base_artist": "HONNE",
+  "createdAt": "2026-02-27T15:25:20.458808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D-Day",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/01_D-Day_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D-Day",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/02_D-Day_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day Drinkin'",
+      "artist": "Jerrod Niemann",
+      "has_synced": true,
+      "path": "select/03_Day_Drinkin'_Jerrod_Niemann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day Drinking",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/04_Day_Drinking_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day Drunk",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/05_Day_Drunk_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day Drunk",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/06_Day_Drunk_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Huntin', Fishin' And Lovin' Every Day",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/07_Huntin',_Fishin'_And_Lovin'_Every_Day_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Was On a Boat That Day",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/08_I_Was_On_a_Boat_That_Day_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Day Tonight",
+      "artist": "Noah Thompson",
+      "has_synced": true,
+      "path": "select/09_One_Day_Tonight_Noah_Thompson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prithee / Liquidation Day",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": true,
+      "path": "select/10_Prithee___Liquidation_Day_Amanda_Palmer,_Edward_Ka-Spel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prithee\u0000Liquidation Day",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/11_Prithee\u0000Liquidation_Day_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/12_Any_Day_Now_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/13_Any_Day_Now_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/14_Any_Day_Now_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blue, Blue Day",
+      "artist": "Don Gibson",
+      "has_synced": true,
+      "path": "select/15_Blue,_Blue_Day_Don_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Forever and a Day",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/16_Forever_and_a_Day_Gary_Allan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day 1 ◑",
+      "artist": "HONNE",
+      "has_synced": false,
+      "path": "select/pl_01_Day_1_◑_HONNE.txt"
+    }
+  ]
+}
